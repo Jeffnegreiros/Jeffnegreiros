@@ -5,7 +5,7 @@
  - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 - :blush: I'm looking to help me become better at what I do
-- :telephone: How to contact me, via Instagram: jefferson_negreiros13
+- :telephone: How to contact me, via Instagram: jefferson_negreiros13.
   
 
 <!---
