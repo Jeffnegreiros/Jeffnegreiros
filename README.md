@@ -1,6 +1,6 @@
 👋 Olá, sou @Jeffnegreiros
 📒 Programador
-💻 Front End.
+💻 Front End
 
 ☎️ Contatos:
 Email: jbnegreiros13@gmail.com
